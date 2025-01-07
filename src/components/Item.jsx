@@ -4,7 +4,7 @@ function Item ({item, clickHandler}) {
             <img width={50} src={item.img} />
             <section>
                 <div>{item.name}</div>
-                <div>{item.price}원</div>
+                <div>{item.price}원a</div>
             </section>
         </li>
     )
